@@ -6,3 +6,5 @@ Introduction to Computer Graphics and Imaging, Fall 2022
 
 - hw3: Ray Tracing, Shadow Ray, Spurious Self-Occlusion, Blinn-Phong Shading (diffuse + specular), Ambient Light, Recursion and Reflection, Fresnel Equations, Transmission
 ![hw3](./hw3/hw3.png)
+- hw5: Area Light, Sampling, Global Illumination
+![hw5](./hw5/hw5.png)
